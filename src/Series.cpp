@@ -1,5 +1,5 @@
 #include <cmath>
-#include "Series.h"
+#include "../include/Series.h"
 
 Series::Series(void (*inputPSCG)(int, int*, int*)) : PSCG(inputPSCG)
 {

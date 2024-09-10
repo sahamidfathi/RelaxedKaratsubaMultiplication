@@ -1,5 +1,5 @@
-#include "Series1.h"
-#include "Product1_Series_Rep.h"
+#include "../include/Series1.h"
+#include "../include/Product1_Series_Rep.h"
 
 Series1::Series1(Series fParam, Series gParam) : f(fParam), g(gParam) {
 	sRep = new Product1_Series_Rep(fParam, gParam);

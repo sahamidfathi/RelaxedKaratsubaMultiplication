@@ -1,5 +1,5 @@
 #include <iostream>
-#include "TPS.h"
+#include "../include/TPS.h"
 
 TPS::TPS(int* numerator, int* denominator, int arraySize) : k(arraySize)
 {

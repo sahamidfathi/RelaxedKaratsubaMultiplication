@@ -1,4 +1,4 @@
-Implemented by Hamid Fathi (sahamidfathi@gmail.com; sfathi4@uwo.ca)
+Implemented by S. A. Hamid Fathi (sahamidfathi@gmail.com; sfathi4@uwo.ca)
 
 
 The class structures and namings are based on "Relaxed, but don't be too lazy" paper by van der Hoeven.

@@ -1,4 +1,4 @@
-#include "Product1_Series_Rep.h"
+#include "../include/Product1_Series_Rep.h"
 
 Product1_Series_Rep::Product1_Series_Rep(Series fParam, Series gParam) : 
 	f(fParam), g(gParam) {}	

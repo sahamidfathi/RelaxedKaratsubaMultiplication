@@ -1,6 +1,6 @@
 #include <cmath>
-#include "Series2.h"
-#include "Product2_Series_Rep.h"
+#include "../include/Series2.h"
+#include "../include/Product2_Series_Rep.h"
 
 Series2::Series2(Series fParam, Series gParam) : f(fParam), g(gParam) {
 	sRep = new Product2_Series_Rep(fParam, gParam);

@@ -1,5 +1,5 @@
-#include "TPS.h"
-#include "Series_Rep.h"
+#include "../include/TPS.h"
+#include "../include/Series_Rep.h"
 
 Series_Rep::Series_Rep(void (*PSCGParam)(int, int*, int*)) : PSCG(PSCGParam)
 {

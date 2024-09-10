@@ -3,13 +3,13 @@
 #include <chrono>
 #include <math.h> 
 
-#include "TPS.h"
-#include "Series_Rep.h"
-#include "Series.h"
-#include "Product1_Series_Rep.h"
-#include "Series1.h"
-#include "Product2_Series_Rep.h"
-#include "Series2.h"
+#include "../include/TPS.h"
+#include "../include/Series_Rep.h"
+#include "../include/Series.h"
+#include "../include/Product1_Series_Rep.h"
+#include "../include/Series1.h"
+#include "../include/Product2_Series_Rep.h"
+#include "../include/Series2.h"
 
 // PS coefficient generator function f0 (n=0), f1 (n=1), ...
 //  1 + 2x + 3x^2 + 4x^3 + ...
